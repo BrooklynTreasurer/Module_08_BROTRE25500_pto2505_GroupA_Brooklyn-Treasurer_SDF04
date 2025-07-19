@@ -71,3 +71,16 @@
     font-family: sans-serif;
     box-sizing: border-box;
 }
+
+.btn{
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(255, 68, 0 , 0.733);
+    color: white;
+    border: none;
+    font-family: sans-serif;
+    font-weight: bold;
+    box-sizing: border-box;
+}
+
