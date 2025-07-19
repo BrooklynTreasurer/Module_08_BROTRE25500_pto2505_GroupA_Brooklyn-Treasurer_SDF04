@@ -118,5 +118,9 @@
         width: 100%;
     }
 
+    .email {
+        width: 80%;
+        margin-bottom: 10px;
+    }
     
 }
