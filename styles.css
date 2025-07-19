@@ -9,3 +9,8 @@
     width: 80%;
     margin: auto;
 }
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
