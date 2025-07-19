@@ -1,43 +1,42 @@
 .footer{
     background-color: #659f8f;
     font-family: 'sans-serif';
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding: 90px 0;
 }
 
 .container{
-    width: 80%;
+    width: 85%;
     margin: auto;
 }
 
 .flex{
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 30px;
 }
 
 .subscribe-sec{
     width: 50%;
-    height: 150px;
+    height: auto;
     font-size: 17px;
     padding-bottom: 20px;
+}
+
+.subscribe-text{
+    margin-bottom: 15px;
+    font-weight: 600;
 }
 
 .side-side{
     display: flex;
     justify-content: space-evenly;
     width: 50%;
+    gap: 30px;
 }
 
-.links{
+.links, .tech-links{
     width: 25%;
-    height: 150px;
-    font-size: 14px;
-    padding-bottom: 20px;   
-}
-
-.tech-links{
-    width: 25%;
-    height: 150px;
     font-size: 14px;
     padding-bottom: 20px;   
 }
@@ -75,8 +74,8 @@
 .btn{
     border-radius: 5px;
     height: 40px;
-    width: 120px;
-    background-color: rgb(255, 68, 0 , 0.733);
+    width: 100px;
+    background-color: #d;
     color: white;
     border: none;
     font-family: sans-serif;
