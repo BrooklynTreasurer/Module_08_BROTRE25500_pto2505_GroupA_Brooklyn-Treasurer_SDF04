@@ -20,12 +20,19 @@
     height: 150px;
     font-size: 17px;
     padding-bottom: 20px;
-    color: ;
 }
 
 .side-side{
- display: flex;
- justify-content: space-evenly;
- width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
 }
+
+.links{
+    width: 25%;
+    height: 150px;
+    font-size: 14px;
+    padding-bottom: 20px;   
+}
+
 
