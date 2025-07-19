@@ -122,5 +122,10 @@
         width: 80%;
         margin-bottom: 10px;
     }
+
+    .btn {
+        width: 50%;
+    }
+
     
 }
