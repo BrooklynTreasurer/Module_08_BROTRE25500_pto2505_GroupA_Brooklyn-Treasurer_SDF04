@@ -130,4 +130,8 @@
     .line {
         width: 90%;
     }
+
+    .logo {
+        width: 150px;
+    }
 }
