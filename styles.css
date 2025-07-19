@@ -102,4 +102,16 @@
         align-items: center;
         text-align: center;
     }
+
+    .subscribe-sec,.side-side {
+        width: 100%;
+    }
+
+    .side-side {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        margin-top: 30px;
+    }
+    
 }
